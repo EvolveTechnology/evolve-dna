@@ -117,7 +117,7 @@ When we are recruiting new colleagues, we are trying to ask ourselves the follow
 - Is this a person I would like to spend 8 hours a day with?
 -  Will this person add value to the team?
 -  Is this a person that I can learn something from?
--  Will this person stand out amongst their peers?
+-  Will this person stand out amongst their peers?
 -  Will this person be easygoing and collaborative? 
 
 It’s a little bit like being Bond, James Bond. He is a good example of finding a way out of every tricky
