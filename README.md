@@ -199,6 +199,7 @@ company.
 ## Our services and focus areas 
 
 **“A hybrid between a software company and an investment company.”**
+
 First of all, Evolve is a software company, serving our customers in most areas regarding
 development of software products and services. We love adding true value to our customers, since it
 aligns perfectly with our purpose of creating lasting positive impact in a world that never stops
