@@ -56,7 +56,7 @@ around projects we usually assign ourselves roles, responsibilities and commitme
 of the project. That means you can easily try out a new role if you want to push yourself, or even take
 a step back for the next project if life just seems too busy. 
 
-## We are a self-managed company 
+## In it for the long run
 
 We’re not in the business of burning people out, or exploiting our colleagues with a goal of
 maximizing short term revenue. Work is just one part of life, and a part that shouldn’t affect the
