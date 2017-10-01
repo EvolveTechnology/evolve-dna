@@ -136,7 +136,7 @@ enlightenment to the world, changing our point of view; Rosa Parks, Emmeline Pan
 Einstein, Steve Jobs. All of these people who have changed the world to the better because of their
 passion, knowledge and belief in a better world. At Evolve we value the following metrics:
 
-### Impace and outcome
+### Impact and Outcome
 
 When working in projects, how much of what you do have an impact, how are your efforts valued in
 that project, are you a valuable team member, do you take on responsibility and finish the work that
