@@ -105,7 +105,6 @@ We only hire highly skilled individuals. It’s not about the years you have bee
 you are and what value you bring to the table. When we are looking for a new colleague we look
 beyond the technical skills.
 At Evolve we are strong believers in human equality. For us, diversity is more than just being willing
-
 to hire and work with everyone. It’s about accepting, celebrating and valuing all persons, regardless
 of race, gender, sexual orientation, religion, age etc. We value you just as you are!
 
