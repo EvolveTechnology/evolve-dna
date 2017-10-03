@@ -48,7 +48,7 @@ investments in multiple companies and a group of subsidiaries.
 ## We are a self-managed company 
 
 We’ve gone out of our way to hire the most talented, driven and passionate people (after all, we
-hired you) and we want to put as little as possible in the way for you doing your careers best work.
+hired you) and we want to put as little as possible in the way for you doing the best work of your career.
 That’s why we don’t do managers and hierarchies. At all. We believe that the collective intelligence is
 more powerful than the traditional pyramid (and there is even science backing that up). But that
 doesn’t mean we don’t put great value in leadership and structure. Whenever teams are formed
