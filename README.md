@@ -197,48 +197,50 @@ failure. On our path we will also learn a lot about making better choices, thing
 before our journey started. The challenges we will face and overcome will ultimately define us as a
 company.
 
-## Our services and focus areas 
+## What we offer to our customers
 
 **“A hybrid between a software company and an investment company.”**
+
+Let's look at what that mission statement actually means for you, your new colleagues at Evolve and our customers.
 
 First of all, Evolve is a software company, serving our customers in most areas regarding
 development of software products and services. We love adding true value to our customers, since it
 aligns perfectly with our purpose of creating lasting positive impact in a world that never stops
-changing. The following sections will describe our areas of focus. 
+changing. The following sections describe our main focus areas, where you will be a vital new addition!
 
 ### Startups
 
 A startup will always aim for the bold ideas which make a real impact. That’s why we are dedicating a
 part of our strategy to making investments in the form of offering our services to startups for equity
 instead of money. This will allow us to work close with each other, their cause becomes ours, and we
-will form long lasting relationships and partnerships. 
+will form long lasting relationships and partnerships.
 
 ### Your own startup
 
 The graveyard is full of dreams and ideas that never got realized, but as a colleague at Evolve we
 want you to explore yours instead of ending up burying them in the ground. We will give you the
 time and tools required in exploring those ideas to see what they can become. Who knows, you
-might change the world, and we would love to be by your side doing so! 
+might change the world, and we would love to be by your side doing so!
 
 ### Teams
 
 Whether crafting new software from scratch or adding new dimensions to an existing service or
 application, a team from Evolve can help in realizing good ideas. Our gathered experience from a
 large number of business areas, in combination with a strategically developed competence portfolio
-makes it possible for us to put together a highly productive cross-functional team. 
+makes it possible for us to put together a highly productive cross-functional team.
 
 ### Consultancy services
 
 Evolve is created to accomodate people who are highly skilled and passionate about creating true
 value with software as our tool. We will always bring highly knowledgeable people into the teams
 and improve a team's performance and capability. Most often we will work in pairs or teams from
-Evolve. 
+Evolve.
 
 ### Project commitment
 
 We’re always looking for partnerships that bring us closer, rather than just supplying members to
 existing teams. As with startups, we’re also working together with well established, bigger companies
-delivering end-to-end solutions, taking on entire projects, from the initial draft to delivery. 
+delivering end-to-end solutions, taking on entire projects, from the initial draft to delivery.
 
 ### Advisory
 
