@@ -247,3 +247,12 @@ uncertain about how or what to do when it comes to technical choices or methodol
 assist in the decision making. We have extensive experience and knowledge of the software industry,
 and also of the challenges these types of projects face. We will put all our effort into helping our
 customers avoid them.
+
+## Finally...
+
+Last but not least, thank you! Thank you for joining us, for choosing to be part of our exciting journey.
+Together we will create our own future, a future we believe has great things in store.
+With every initiative, project, team and line of code, we will make an impact. Steadily evolving together
+with you, beacause of you. Rest asured it will be an awesome ride.
+
+We are different. We make a difference. We are Evolve.
