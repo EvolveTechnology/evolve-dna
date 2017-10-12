@@ -121,9 +121,9 @@ When we are recruiting new colleagues, we are trying to ask ourselves the follow
 - Will this person stand out amongst their peers?
 - Will this person be easygoing and collaborative? 
 
-It’s a little bit like being Bond, James Bond. He is a good example of finding a way out of every tricky
-situation, but he is also like a chameleon, adapting to every situation. From being chased in the
-jungle, to going to a gala dinner, he adapts after what the situation requires.
+It’s a little bit like being McGyver or Katniss Everdeen. To find a way out of every tricky situation and, 
+like a chameleon, adapting to every situation. From opening a door with a paper-clip and a stick of gum to 
+conquer seemingly impossible challenges by outsmarting the competition.
 
 This means that you will always have highly skilled colleagues who can challenge you to evolve – we
 learn from each other!
